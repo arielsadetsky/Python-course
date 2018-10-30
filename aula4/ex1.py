@@ -1,5 +1,5 @@
 convidados = []
-x=len(convidados)
+x = len(convidados)
 def adicionar(nome):
     global convidados
     convidados.append(nome)
@@ -8,5 +8,5 @@ while(True):
     if nome.strip().lower() == 'sair':
         break
     adicionar(nome)
-print(convidados.insert[x,x+'-'])
+print(convidados)
 

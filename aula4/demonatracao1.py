@@ -3,3 +3,4 @@ def funcao():
 a = funcao()
 print(a)
 print(funcao().title())
+
